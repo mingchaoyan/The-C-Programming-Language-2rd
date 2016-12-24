@@ -1,5 +1,5 @@
 #include <stdio.h>
-//int power(int, int);
+int power(int, int);
 
 int main()
 {
